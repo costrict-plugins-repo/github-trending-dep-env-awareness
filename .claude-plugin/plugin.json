@@ -1,0 +1,8 @@
+{
+  "name": "dep-env-awareness",
+  "description": "Audit project dependencies, environment configuration, and runtime compatibility. Diagnoses version conflicts, lock file drift, CI/local mismatches, Docker issues, and security vulnerabilities across Node, Python, Rust, Go, and more.",
+  "version": "1.1.0",
+  "author": { "name": "Pilou" },
+  "repository": { "type": "git", "url": "https://github.com/Pierre-louis242/dep-env-awareness" },
+  "license": "MIT"
+}
